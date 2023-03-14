@@ -1,0 +1,4 @@
+https://imaster.academy/contenidos-tematicos/programacion/Unidad1/02%20-%20Instalacion%20VSCode.pdf,archivo1
+https://echacaltana.github.io/curso_profesional_git_y_github.pdf,archivo2
+https://xwiki.recursos.uoc.edu/wiki/matb1699es/download/Main/Bases%20de%20datos%3A%20conceptos%20b%C3%A1sicos%2C%20dise%C3%B1o%20f%C3%ADsico%20y%20rendimiento/Guia_Instalacion_PostgreSQL_9_3.pdf,archivo3
+http://www.ingresos.haciendachiapas.gob.mx/servicios/informacion/F5-1000/Inst-JAVA.pdf,archivo4
